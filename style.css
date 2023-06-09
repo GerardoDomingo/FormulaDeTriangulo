@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(15, 15, 54);
+}
+fieldset{
+    display: flex;
+    justify-content: center;
+}
+label{
+    color: aqua;
+}
+h2{
+    color: white;
+}
